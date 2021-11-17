@@ -8,14 +8,14 @@
 
 ### Nhóm 6:
 
-    1. 1712568 - Kim Đình Lộc
-    2. 1712502 - Trần Quang Huy
-    3. 1712497 - Nguyễn Văn Huy
-    4. 1712496 - Nguyễn Trần Công Huy
+1. 1712568 - Kim Đình Lộc
+2. 1712502 - Trần Quang Huy
+3. 1712497 - Nguyễn Văn Huy
+4. 1712496 - Nguyễn Trần Công Huy
 
 ## Thông tin về cuộc thi:
 
-    Rossmannn vận hành hơn 3000 nhà thuốc trên 7 quốc gia châu Âu, và hiện tại thì các quản lý các nhà thuốc Rossmann đang có nhu cầu dự đoán doanh số bán hàng trong 6 tuần tiếp theo. Từ đó mà cuộc thi Rossmann Store Sales được hình thành trên Kaggle với hàng nghìn team tham gia để giải quyết bài toán. Ban tổ chức sẽ sử dụng Root Mean Square Percentage Error để đánh giá chất lượng của kết quả mà ta gửi.
+Rossmannn vận hành hơn 3000 nhà thuốc trên 7 quốc gia châu Âu, và hiện tại thì các quản lý các nhà thuốc Rossmann đang có nhu cầu dự đoán doanh số bán hàng trong 6 tuần tiếp theo. Từ đó mà cuộc thi Rossmann Store Sales được hình thành trên Kaggle với hàng nghìn team tham gia để giải quyết bài toán. Ban tổ chức sẽ sử dụng Root Mean Square Percentage Error để đánh giá chất lượng của kết quả mà ta gửi.
 
 - Link Competition: https://www.kaggle.com/c/rossmann-store-sales
 - Link Data: https://www.kaggle.com/c/rossmann-store-sales/data
