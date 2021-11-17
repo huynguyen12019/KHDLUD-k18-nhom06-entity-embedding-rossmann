@@ -8,7 +8,7 @@
 
 ### Nhóm 6:
 
-1. 1712568 - Kim Đình Lộc - []
+1. 1712568 - Kim Đình Lộc - kimdinhloc
 2. 1712502 - Trần Quang Huy - tranquanghuy12
 3. 1712497 - Nguyễn Văn Huy - huynguyen12019
 4. 1712496 - Nguyễn Trần Công Huy - huynguyen1999
