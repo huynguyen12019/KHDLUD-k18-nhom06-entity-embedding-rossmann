@@ -1,6 +1,6 @@
 # Rossmann-Store-Sales
 
-## Entity-Embedding-Rossmann - 3st Place Solution
+## Entity-Embedding-Rossmann - 3rd Place Solution
 
 ## Thông tin nhóm thực hiện:
 
