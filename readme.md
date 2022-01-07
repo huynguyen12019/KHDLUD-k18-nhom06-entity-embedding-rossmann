@@ -19,5 +19,5 @@ Rossmannn vận hành hơn 3000 nhà thuốc trên 7 quốc gia châu Âu, và h
 
 - Link Competition: https://www.kaggle.com/c/rossmann-store-sales
 - Link Data: https://www.kaggle.com/c/rossmann-store-sales/data
-- Link Colab: https://colab.research.google.com/gist/kimdinhloc/bec9b85599142d71533e7a5befd945c1/main.ipynb
+- Link Colab: https://colab.research.google.com/gist/kimdinhloc/d34960ae2d5ba2518dff99a6cc307707/main.ipynb
 - BẢNG PHÂN CÔNG CÔNG VIỆC: [KẾ HOẠCH](https://docs.google.com/spreadsheets/d/1Ol5hhAsqriq7wtgzDrLfHhn2qT6cncThM64uo7uWFjg/edit?usp=sharing)
