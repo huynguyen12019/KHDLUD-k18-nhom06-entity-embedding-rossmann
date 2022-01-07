@@ -21,7 +21,7 @@ Rossmannn vận hành hơn 3000 nhà thuốc trên 7 quốc gia châu Âu, và h
 - Link Data: https://www.kaggle.com/c/rossmann-store-sales/data
 - Link Colab: https://colab.research.google.com/github/huynguyen12019/KHDLUD-k18-nhom06-entity-embedding-rossmann/blob/main/main.ipynb
 - BẢNG PHÂN CÔNG CÔNG VIỆC: [KẾ HOẠCH](https://docs.google.com/spreadsheets/d/1Ol5hhAsqriq7wtgzDrLfHhn2qT6cncThM64uo7uWFjg/edit?usp=sharing)
-- 
+
 ## Thông tin về repository
 
 Another Version: Chứa file Report.ipynb là file thử nghiệm khi đối với phần feature và models
