@@ -19,5 +19,16 @@ Rossmannn vận hành hơn 3000 nhà thuốc trên 7 quốc gia châu Âu, và h
 
 - Link Competition: https://www.kaggle.com/c/rossmann-store-sales
 - Link Data: https://www.kaggle.com/c/rossmann-store-sales/data
-- Link Colab: https://colab.research.google.com/gist/kimdinhloc/d34960ae2d5ba2518dff99a6cc307707/main.ipynb
+- Link Colab: https://colab.research.google.com/github/huynguyen12019/KHDLUD-k18-nhom06-entity-embedding-rossmann/blob/main/main.ipynb
 - BẢNG PHÂN CÔNG CÔNG VIỆC: [KẾ HOẠCH](https://docs.google.com/spreadsheets/d/1Ol5hhAsqriq7wtgzDrLfHhn2qT6cncThM64uo7uWFjg/edit?usp=sharing)
+- 
+## Thông tin về repository
+
+Another Version: Chứa file Report.ipynb là file thử nghiệm khi đối với phần feature và models
+Source_code: Chứa source code gốc của tác giả
+Predictions: Chứa các predicts đối với những tham số và model khác nhau. Như thay thế các layer dense 1000-dense 500 thành dense 1200 - dense 800 - dense 400 hoặc tinh chỉnh Train_Ratio = 1 hoặc Train_Ratio = 0.98
+Report.ipynb: file notebook chính thức của nhóm
+
+## Thông tin về kết quả mô hình
+
+Đối với mô hình của tác giả, sau khi thử nghiệm thì private score xấp xỉ so với tác giả.
